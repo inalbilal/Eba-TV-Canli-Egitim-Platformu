@@ -1,0 +1,190 @@
+body {
+    background: #e9e9e9;
+    color: #666666;
+    font-family: "RobotoDraft", "Roboto", sans-serif;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* ------------------------------------baslik---------------------------------------------------------- */
+
+.baslik {
+    padding: 50px 0;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.baslik h1 {
+    font-size: 48px;
+    font-weight: 300;
+}
+
+.baslik {
+    font-size: 12px;
+}
+
+.baslik .fa {
+    color: #FC4C1D;
+}
+
+.baslik a {
+    color: #FC4C1D;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+/* ----------------------------------form css------------------------------------- */
+.genel{
+    position: relative;  
+    max-width: 320px;
+    width: 100%; 
+    margin: 0 auto;
+    border-radius: 30px;
+}
+.form-div {
+    position: relative;
+    background: #ffffff;
+    max-width: 320px;
+    width: 100%;
+    border-top: 5px solid #FC4C1D;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.form-div .sembol {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #FC4C1D;
+    width: 30px;
+    height: 30px;
+    margin: -5px 0 0;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.form-div .sembol .tooltip {
+    position: absolute;
+    top: 5px;
+    right: -65px;
+    display: block;
+    background: rgba(0, 0, 0, 0.006);
+    width: auto;
+    padding: 5px;
+    font-size: 10px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.form-div .sembol .tooltip:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: -5px;
+    display: block;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid rgba(0, 0, 0, 0.6);
+}
+
+.form-div .form {
+    display: none;
+    padding: 40px;
+}
+
+.form-div .form:nth-child(2) {
+    display: block;
+}
+
+.form-div h2 {
+    margin: 0 0 20px;
+    color: #FC4C1D;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.form-div .inputlar {
+    outline: none;
+    display: block;
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    margin: 0 0 20px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    transition: 0.3s ease;
+    border-radius: 30px;
+}
+
+.form-div .inputlar:focus {
+    border: 1px solid #FC4C1D;
+    color: #333333;
+}
+
+.form-div .button {
+    cursor: pointer;
+    background: #FC4C1D;
+    width: 100%;
+    border: 0;
+    padding: 10px 15px;
+    color: #ffffff;
+    transition: 0.3s ease;
+    border-radius: 30px;
+    outline: none;
+}
+
+.form-div .button:hover {
+    background: #E03210;
+}
+
+.form-div .yonlendirme {
+    background: #f2f2f2;
+    width: 100%;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    color: #666666;
+    font-size: 12px;
+    text-align: center;
+}
+
+.form-div .yonlendirme a {
+    color: #333333;
+    text-decoration: none;
+}
+
+/*---------------------------------------css alert----------------------------------------------------*/
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; 
+    color: white;
+    margin-bottom: 15px;
+  }
+
+  .alertsuc{
+    background-color: #4CAF50;
+  }
+  
+
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+
+  .closebtn:hover {
+    color: black;
+  }

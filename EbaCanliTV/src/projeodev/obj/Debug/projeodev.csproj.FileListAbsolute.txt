@@ -1,0 +1,238 @@
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\ApplicationInsights.config
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\csc.exe
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\System.Collections.Immutable.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\vbc.exe
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\VBCSCompiler.exe
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\roslyn\VBCSCompiler.exe.config
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\projeodev.dll.config
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\projeodev.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\projeodev.pdb
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.Web.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.WindowsServer.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.ApplicationInsights.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.Web.Infrastructure.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Helpers.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Mvc.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Razor.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.Deployment.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.Razor.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.Web.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.AI.WindowsServer.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.ApplicationInsights.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Razor.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.Deployment.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Webpages.Razor.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Helpers.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Web.Mvc.xml
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\obj\Debug\projeodev.csprojResolveAssemblyReference.cache
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\obj\Debug\projeodev.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\obj\Debug\projeodev.pdb
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\MySql.Data.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Google.Protobuf.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Zstandard.Net.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\K4os.Compression.LZ4.Streams.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\BouncyCastle.Crypto.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Ubiety.Dns.Core.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\Renci.SshNet.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Buffers.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\K4os.Compression.LZ4.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\K4os.Hash.xxHash.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\inal\documents\visual studio 2015\Projects\projeodev\projeodev\bin\MySql.Data.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\ApplicationInsights.config
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\csc.exe
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\vbc.exe
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\VBCSCompiler.exe
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\projeodev.dll.config
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\projeodev.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\projeodev.pdb
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.Web.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Helpers.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Mvc.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Razor.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.Razor.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Google.Protobuf.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Zstandard.Net.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\BouncyCastle.Crypto.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Ubiety.Dns.Core.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Renci.SshNet.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Buffers.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\K4os.Compression.LZ4.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\K4os.Hash.xxHash.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Memory.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.Web.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\MySql.Data.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Razor.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Webpages.Razor.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Helpers.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\bin\System.Web.Mvc.xml
+C:\Users\01bil\Desktop\projeodev\projeodev\obj\Debug\projeodev.csproj.AssemblyReference.cache
+C:\Users\01bil\Desktop\projeodev\projeodev\obj\Debug\projeodev.csproj.CoreCompileInputs.cache
+C:\Users\01bil\Desktop\projeodev\projeodev\obj\Debug\projeodev.csproj.CopyComplete
+C:\Users\01bil\Desktop\projeodev\projeodev\obj\Debug\projeodev.dll
+C:\Users\01bil\Desktop\projeodev\projeodev\obj\Debug\projeodev.pdb
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\ApplicationInsights.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\csc.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\vbc.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\VBCSCompiler.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\projeodev.dll.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\projeodev.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\projeodev.pdb
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.Web.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Helpers.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Mvc.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Razor.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.Razor.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Google.Protobuf.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Zstandard.Net.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\BouncyCastle.Crypto.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Ubiety.Dns.Core.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Renci.SshNet.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Buffers.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\K4os.Compression.LZ4.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\K4os.Hash.xxHash.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Memory.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.Web.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\MySql.Data.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Razor.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Webpages.Razor.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Helpers.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\bin\System.Web.Mvc.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\obj\Debug\projeodev.csproj.AssemblyReference.cache
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\obj\Debug\projeodev.csproj.CoreCompileInputs.cache
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\obj\Debug\projeodev.csproj.CopyComplete
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\obj\Debug\projeodev.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\projeodev\obj\Debug\projeodev.pdb
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\ApplicationInsights.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\csc.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\vbc.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\VBCSCompiler.exe
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\projeodev.dll.config
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\projeodev.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\projeodev.pdb
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.Web.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Helpers.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Mvc.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Razor.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.Razor.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Google.Protobuf.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Zstandard.Net.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\BouncyCastle.Crypto.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Ubiety.Dns.Core.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Renci.SshNet.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Buffers.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\K4os.Compression.LZ4.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\K4os.Hash.xxHash.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Memory.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.Web.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\MySql.Data.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Razor.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Webpages.Razor.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Helpers.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\bin\System.Web.Mvc.xml
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\obj\Debug\projeodev.csproj.AssemblyReference.cache
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\obj\Debug\projeodev.csproj.CoreCompileInputs.cache
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\obj\Debug\projeodev.csproj.CopyComplete
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\obj\Debug\projeodev.dll
+C:\Users\01bil\Desktop\Git\ebacanlitv\src\projeodev\obj\Debug\projeodev.pdb
