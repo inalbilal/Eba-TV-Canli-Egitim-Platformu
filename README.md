@@ -1,2 +1,2 @@
-# Eba Canli TV Projesi
- İlkokul, Ortaokul ve Lise öğrencileri için canlı TV eğitim platformu.
+# Eba TV Canlı Eğitim Platformu
+ İlkokul, Ortaokul ve Lise öğrencileri için Eba TV canlı eğitim platformu.
